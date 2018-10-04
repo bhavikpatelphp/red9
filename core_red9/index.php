@@ -7,7 +7,7 @@
             <h2 class="heading">Wedding</h2>
             <p class="lead larger">Maecenas sed diam eget risus varius blandit magna.</p>
             <div class="space10"></div>
-            <a href="gallery.php" class="btn btn-full-rounded btn-white">See Gallery</a> </div>
+            <a href="/gallery.php" class="btn btn-full-rounded btn-white">See Gallery</a> </div>
           <!-- /.container --> 
         </div>
         <!-- /column --> 
@@ -25,7 +25,7 @@
             <h2 class="heading">Pre Wedding</h2>
             <p class="lead larger">Maecenas sed diam eget risus varius blandit magna.</p>
             <div class="space10"></div>
-            <a href="gallery.php" class="btn btn-full-rounded btn-white">See Gallery</a> </div>
+            <a href="/gallery.php" class="btn btn-full-rounded btn-white">See Gallery</a> </div>
           <!-- /.container --> 
         </div>
         <!-- /column --> 
@@ -43,7 +43,7 @@
             <h2 class="heading">Fashion Photoshoot</h2>
             <p class="lead larger">Maecenas sed diam eget risus varius blandit magna.</p>
             <div class="space10"></div>
-            <a href="gallery.php" class="btn btn-full-rounded btn-white">See Gallery</a> </div>
+            <a href="/gallery.php" class="btn btn-full-rounded btn-white">See Gallery</a> </div>
           <!-- /.container --> 
         </div>
         <!-- /column --> 
@@ -61,7 +61,7 @@
             <h2 class="heading">Interior Photography</h2>
             <p class="lead larger">Maecenas sed diam eget risus varius blandit magna.</p>
             <div class="space10"></div>
-            <a href="gallery.php" class="btn btn-full-rounded btn-white">See Gallery</a> </div>
+            <a href="/gallery.php" class="btn btn-full-rounded btn-white">See Gallery</a> </div>
           <!-- /.container --> 
         </div>
         <!-- /column --> 
@@ -79,7 +79,7 @@
             <h2 class="heading">Baby Bump Photography</h2>
             <p class="lead larger">Maecenas sed diam eget risus varius blandit magna.</p>
             <div class="space10"></div>
-            <a href="gallery.php" class="btn btn-full-rounded btn-white">See Gallery</a> </div>
+            <a href="/gallery.php" class="btn btn-full-rounded btn-white">See Gallery</a> </div>
           <!-- /.container --> 
         </div>
         <!-- /column --> 
@@ -97,7 +97,7 @@
             <h2 class="heading">Kids Photography</h2>
             <p class="lead larger">Maecenas sed diam eget risus varius blandit magna.</p>
             <div class="space10"></div>
-            <a href="gallery.php" class="btn btn-full-rounded btn-white">See Gallery</a> </div>
+            <a href="/gallery.php" class="btn btn-full-rounded btn-white">See Gallery</a> </div>
           <!-- /.container --> 
         </div>
         <!-- /column --> 
